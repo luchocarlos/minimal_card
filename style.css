@@ -1,0 +1,67 @@
+body{
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.card{
+    height: 340px;
+    width: 320px;
+    box-shadow: 0px 30px 30px 0px rgba(0, 0, 0, 0.51);
+    border-radius: 10px;
+    border: 0.5px solid silver;
+}
+
+img {
+    margin-top: 10px;
+    margin-left: 10px;
+    height: 132px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+.categories{
+    margin-left: 10px;
+    padding: 5px;
+    color: #883AE1;
+    background-color: #8a43db4d;
+    height: 10px;
+    width: 40px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 10px;
+}
+
+.title{
+    width: 250px;
+    color: #20293A;
+    margin-left: 10px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+
+}
+
+.description{
+    margin-left: 10px;
+    height: 132px;
+    width: 280px;
+    color: #6C727F;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+hr{
+   margin-top: -80px;
+   width: 320px; 
+}
+
+.autor{
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #6C727F;
+}
